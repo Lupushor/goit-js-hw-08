@@ -12,13 +12,15 @@
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "Alexandr Lupu <alexandr.lupu.1984@gmail.com>",
+  "author": "Alexandr Lupu <alexandr.lupu.1984l@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
-    "modern-normalize": "^1.1.0"
+    "@vimeo/player": "^2.18.0",
+    "modern-normalize": "^1.1.0",
+    "simplelightbox": "^2.12.1"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
